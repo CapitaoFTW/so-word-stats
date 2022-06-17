@@ -1,2 +1,4 @@
-Rodrigo Filipe Capitão, nº 2201741
-Samuel António Capitão Ferraz, nº 2201740
+## MADE BY
+
+# Rodrigo Filipe Capitão
+# Samuel António Capitão Ferraz
