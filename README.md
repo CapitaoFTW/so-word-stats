@@ -1,4 +1,4 @@
-## MADE BY
+# MADE BY
 
-# Rodrigo Filipe Capitão
-# Samuel António Capitão Ferraz
+## Rodrigo Filipe Capitão
+## Samuel António Capitão Ferraz
